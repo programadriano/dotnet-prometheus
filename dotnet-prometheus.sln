@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-prometheus", "dotnet-prometheus\dotnet-prometheus.csproj", "{D0CF2679-278F-4E76-9356-BB494C848EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0CF2679-278F-4E76-9356-BB494C848EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CF2679-278F-4E76-9356-BB494C848EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CF2679-278F-4E76-9356-BB494C848EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CF2679-278F-4E76-9356-BB494C848EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A016A35-57C0-4FCA-8994-B94446D58438}
+	EndGlobalSection
+EndGlobal
