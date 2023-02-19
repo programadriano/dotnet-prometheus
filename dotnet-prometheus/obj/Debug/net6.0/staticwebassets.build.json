@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OB+BntlyHvVHU9qqCKbGgpN4k1O7aY3QoBVkETa0IJc=",
+  "Source": "dotnet-prometheus",
+  "BasePath": "_content/dotnet-prometheus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
